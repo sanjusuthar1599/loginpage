@@ -34,7 +34,7 @@ export default class Ragister extends Component {
                     <input type="checkbox" id="rememberMe" />
                     <label htmlFor="rememberMe">Remember Me</label>
                 </div>
-                <button type="submit">Login now</button>
+                <button type="submit">Ragister now</button>
             </form>
             <a href="#" className="forgot-password">Lost your password?</a>
             <p className="terms">
