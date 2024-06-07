@@ -15,8 +15,6 @@ function BasicExample() {
      <div className='d-flex gap-2'>
         <button className='btn btn-danger'><Link to="/">login</Link></button>
         <button className='btn btn-danger '><Link to="/Ragister">Ragister</Link></button>
-        
-        
      </div>
         
       </Container>
